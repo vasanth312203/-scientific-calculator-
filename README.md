@@ -1,8 +1,10 @@
 # Scientific Calculator
 
+By Million Dollar Coder
+
 **************************
 
-Million Dollar Coder
+
 
 Project Name : Scientific Calculator
 
@@ -16,7 +18,7 @@ Software Used : VScode and google chorme
 
 Date : 22 - 10 - 23
 
-License : MIT license ( )
+License : MIT license (  )
 
 Description :
 
