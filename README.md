@@ -5,10 +5,11 @@ By Million Dollar Coder
 **************************
 
 
-
 Project Name : Scientific Calculator
 
-Developer Name : VASANTH . M
+Author : 
+
+This project was created by  VASANTH . M 
 
 NickName : Million Dollar Coder
 
@@ -18,28 +19,52 @@ Software Used : VScode and google chorme
 
 Date : 22 - 10 - 23
 
-License : MIT license (  https://github.com/vasanth312203/Scientific-Calculator-/blob/a83fc41be17be2d8261547613b5746db26c1102b/LICENSE )
+License : 
+
+This project is open-source and available under the MIT License. You are free to use, modify, and distribute it as needed.
+Please refer to the LICENSE file for more details. 
+
+(  https://github.com/vasanth312203/Scientific-Calculator-/blob/a83fc41be17be2d8261547613b5746db26c1102b/LICENSE )
 
 Description :
 
-This is a simple digital clock application created using HTML, CSS, and JavaScript. It displays the current time in a 12-hour format on a web page.
+This is simple scientific calculator  project that involves HTML, CSS, and JavaScript , as well as a strong understanding of mathematical concepts.  and  It is very useful tool for solving complex mathematical problems.
 
-HTML (time.html)
+HTML (cal.html)
 
-The HTML file provides the structure of the digital clock. It consists of a container where the time is displayed.
+Start by designing the user interface in HTML. Create input fields and buttons for numbers, operators, and functions
 
 CSS (style.css)
 
-The CSS file is responsible for styling the digital clock. It centers the clock on the webpage and styles the font and background.
+Apply CSS styles to make the  calculator visually appealing and user-friendly.
 
 JAVA SCRIPT
 
-The JavaScript is updates the time displayed in the clock every second using the setInterval function.
+ Implement the calculator's functionality using JavaScript. :
+
+Input Handling:
+
+Capture user input (button clicks or keyboard events) and display it on the screen.
+
+Math Operations:
+Implement functions for basic arithmetic operations (addition, subtraction, multiplication, division).
+
+Scientific Functions:
+
+Create functions for scientific operations like square root, exponentiation, trigonometric functions (sin, cos, tan), and logarithms.
+
+Result Display:
+
+Display the calculated result on the screen.
 
 How to Use
 
 1 , Download or clone the repository to your local machine.
 
-2 , Open the time.html file in a web browser.
+2 , Open the cal.html file in a web browser.
 
-3 , The digital clock will be displayed and will continuously update to show the current time.
+3 , The calculator  will be displayed and resolve the challenging  mathematical  difficulties you have.  .
+
+
+
+
