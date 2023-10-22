@@ -18,7 +18,7 @@ Software Used : VScode and google chorme
 
 Date : 22 - 10 - 23
 
-License : MIT license (  )
+License : MIT license (  https://github.com/vasanth312203/Scientific-Calculator-/blob/a83fc41be17be2d8261547613b5746db26c1102b/LICENSE )
 
 Description :
 
