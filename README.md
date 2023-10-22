@@ -1,8 +1,7 @@
 # Scientific Calculator
 
-By Million Dollar Coder
-
-**************************
+BY   Million Dollar Coder 
+**********************************
 
 
 Project Name : Scientific Calculator
