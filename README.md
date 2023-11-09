@@ -25,7 +25,7 @@ Please refer to the LICENSE file for more details.
 
 (  https://github.com/vasanth312203/Scientific-Calculator-/blob/a83fc41be17be2d8261547613b5746db26c1102b/LICENSE )
 
-<img src="image" alt="W3Schools.com">
+<img src="image.jpg" alt="W3Schools.com">
 
 Description :
 
